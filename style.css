@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: "Montserrat", sans-serif;
-    color: rgb(75, 46, 9);
+    color: rgb(255 255 255);
   }
   #survey-form {
     width: 50%;
